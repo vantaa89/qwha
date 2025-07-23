@@ -1,0 +1,55 @@
+# test cases
+test/
+
+# IPython Notebook Checkpoint
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+*.log
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+# VSCode settings
+.vscode
+
+# IDEA files
+.idea
+
+# OSX dir files
+.DS_Store
+
+# Sublime Text settings
+*.sublime-workspace
+*.sublime-project
+
+# Model outputs
+*output*
+llama-2-7b-*
+Llama-2-7b-*
+alpaca-2-7b-*
+*.pkl
+peft_temp_model
+error_results
+gptq_models/
+initialized_checkpoints/
+
+# Wandb
+wandb
+
+CloQ
+.venv
